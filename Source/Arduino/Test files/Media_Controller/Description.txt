@@ -1,0 +1,2 @@
+Has correct gesture recognition.
+Has correct display initialization.

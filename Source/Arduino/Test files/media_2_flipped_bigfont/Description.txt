@@ -1,0 +1,5 @@
+Has flipped orientation for gesture recognition.
+Has correct gesture recognition.
+Has correct display initialization.
+Has bigger fonts for display.
+Has correct CW/CCW gestures recognition.

@@ -1,0 +1,24 @@
+4.7uF : https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1206-4-7uf-16v-1pcs
+2.2uF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-0805-2-2uf-50v-1pcs
+0.1uf : https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1206-100nf-50v-1pcs
+CHG LED: owned (green)
+PWR LED: owned (red)
+D1 (alternative): https://uge-one.com/product/smd-schottky-diode-1n5819-ss14-1a-40v-sma-package/
+IR: https://lampatronics.com/product/ir-5mm-infrared-led-receiver-transmitter
+USB-C: https://lampatronics.com/product/female-usb-connector-type-c-smd-16pin
+OLED: https://www.ram-e-shop.com/shop/oled-0-96-4pin-oled-0-96-4pin-lcd-display-module-i2c-iic-communicate-7772
+Gesture: https://lampatronics.com/product/gesture-recognition-sensor-paj7620
+AO3401: https://uge-one.com/product/ao3401-sot23-general-purpose-p-channel-mosfet-smd-transistor-sot-23/
+5.1Kohm: https://free-electronic.com/product/smd-resistor-5-1-kohm-0603/
+10kohm : owned
+1Kohm: https://lampatronics.com/product/resistor-1k-ohm-1-4w-2pcs
+2kohm : https://lampatronics.com/product/smd-resistor-2kohm-202-0805-
+10kohm : https://lampatronics.com/product/smd-resistor-10kohm-103-0805-10pcs
+100ohm: https://lampatronics.com/product/smd-resistor-100ohm-101-0805-10pcs
+100Kohm: https://lampatronics.com/product/smd-resistor-100kohm-104-0805-10pcs
+Delete Button: https://lampatronics.com/product/push-button-4pin-long-6x6x13mm
+Swtich: https://lampatronics.com/product/2-state-switch-pcb-mounted-3-pin
+IR-Receiver: https://lampatronics.com/product/universal-ir-infrared-receiver-tl1838-vs1838b-38khz-3pin
+MCP73831T-2ACI_OT: https://ar.aliexpress.com/item/32844180448.html?spm=a2g0o.productlist.main.1.4b01LX8ALX8A3q&algo_pvid=5fe4d676-00bd-403a-ae8c-a3b0b7441638&pdp_ext_f=%7B%22order%22%3A%22220%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32844180448%7C_p_origin_prod%3A
+MIC5219-3.3YM5: https://ar.aliexpress.com/item/1005006130724980.html?spm=a2g0o.productlist.main.6.4c73EOI6EOI6w7&algo_pvid=ba305fa5-d1fa-45ea-b339-9e0b52087c6d&pdp_ext_f=%7B%22order%22%3A%2222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006130724980%7C_p_origin_prod%3A
+ESP32: https://lampatronics.com/product/esp32-30pin-development-board-wifi-and-bluetooth

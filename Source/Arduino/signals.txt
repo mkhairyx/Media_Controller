@@ -1,0 +1,22 @@
+Signals:
+
+- Left:
+Send with: IrSender.sendNEC(0x4, 0x7, <numberOfRepeats>);
+--
+- Right:
+Send with: IrSender.sendNEC(0x4, 0x6, <numberOfRepeats>);
+--
+- Up:
+Send with: IrSender.sendNEC(0x4, 0x40, <numberOfRepeats>);
+--
+- Down:
+Send with: IrSender.sendNEC(0x4, 0x41, <numberOfRepeats>);
+--
+- Ok:
+Send with: IrSender.sendNEC(0x4, 0x44, <numberOfRepeats>);
+
+- Volume Up:
+Send with: IrSender.sendNEC(0x4, 0x2, <numberOfRepeats>);
+
+- Volume Down:
+Send with: IrSender.sendNEC(0x4, 0x3, <numberOfRepeats>);

@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TSOP1838") (type "KiCad") (uri "C:/Users/someo/Documents/projects/Media_Controller/Source/KiCad/add-ons/TSOP1838/Symbol&footprint/TSOP1838") (options "") (descr ""))
+	(lib (name "Footprint") (type "KiCad") (uri "C:/Users/someo/Documents/projects/Media_Controller/Source/KiCad/add-ons/ESP32/Footprint") (options "") (descr ""))
+)

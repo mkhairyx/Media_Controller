@@ -1,0 +1,3 @@
+Has correcet gesture recognition.
+Has correct CW/CCW gestures interpretation.
+Has correct display initialization.
