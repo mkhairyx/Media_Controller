@@ -2,3 +2,5 @@ A device that controls your TV using IR signals to mimic your TV's remote contro
 
 A demo vid can be watched here:<br>
 https://youtu.be/PJmMg9s-Np0
+
+Please note that AI was used to help with **some** parts of the code and not all of it.
