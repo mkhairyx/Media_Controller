@@ -36,6 +36,7 @@ switch between different TV/PC (Inoperative for now, PC functions will be availa
 ## Demo Video
 A demo vid can be watched here:<br>
 https://youtu.be/PJmMg9s-Np0
+https://cdn.hackclub.com/01a003da-1a12-7c9f-beef-b3fb1ff95faa/Media%20Controller%20Demo-2.mp4
 
 ## Notes
 - Please note that AI was used to help with **some** parts of the code and not all of it.
